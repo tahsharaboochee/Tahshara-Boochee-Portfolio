@@ -1,8 +1,6 @@
 ## Tahshara Boochee Full Stack Developer!
 
-![portfolio]()
-
-**_IMPORTANT NOTE_**: New fastest version came out, built with React + Gatsby! 🎉🎉🎉 See more: [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)
+![portfolio](portfolio.gif)
 
 ## Features
 
